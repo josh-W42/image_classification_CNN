@@ -14,11 +14,7 @@ After training, you could supply a photo of a flower and the model would return 
 
 These approximations would be displayed on a bar plot like bellow.
 
-<div style="background-color: white">
-
-![alt text](inference_example.png 'Title')
-
-</div>
+![Bar Plot Example](bar_plot_example.png 'Example')
 
 ### Background:
 
